@@ -6,3 +6,11 @@ D:\дз 3 курс\Film_drive\Film_drive\bin\Debug\Film_drive.exe
 D:\дз 3 курс\Film_drive\Film_drive\bin\Debug\Film_drive.pdb
 D:\дз 3 курс\Film_drive\Film_drive\obj\Debug\Film_drive.exe
 D:\дз 3 курс\Film_drive\Film_drive\obj\Debug\Film_drive.pdb
+C:\Users\Nikityara\Desktop\Film_Drive\Film_drive\Film_drive\bin\Debug\Film_drive.exe.config
+C:\Users\Nikityara\Desktop\Film_Drive\Film_drive\Film_drive\bin\Debug\Film_drive.exe
+C:\Users\Nikityara\Desktop\Film_Drive\Film_drive\Film_drive\bin\Debug\Film_drive.pdb
+C:\Users\Nikityara\Desktop\Film_Drive\Film_drive\Film_drive\obj\Debug\Film_drive.csproj.AssemblyReference.cache
+C:\Users\Nikityara\Desktop\Film_Drive\Film_drive\Film_drive\obj\Debug\Film_drive.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikityara\Desktop\Film_Drive\Film_drive\Film_drive\obj\Debug\Film_drive.csproj.CoreCompileInputs.cache
+C:\Users\Nikityara\Desktop\Film_Drive\Film_drive\Film_drive\obj\Debug\Film_drive.exe
+C:\Users\Nikityara\Desktop\Film_Drive\Film_drive\Film_drive\obj\Debug\Film_drive.pdb

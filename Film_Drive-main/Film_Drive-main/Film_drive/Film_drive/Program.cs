@@ -11,7 +11,8 @@ namespace Film_drive
     {
         static void Main(string[] args)
         {
-            Car.dvij();
+            Car car = new Car();
+            car.dvij();
             Console.ReadLine();
         }
     }
